@@ -30,4 +30,4 @@ printfullname.apply(name2, ["Mumbai", "India"]);
 // Returns a new function with this bound (and optionally preset arguments).
 let sachinDetails = printfullname.bind(name2, "Mumbai", "India");
 
-sachinDetails();
+sachinDetails(); 
